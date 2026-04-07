@@ -8,7 +8,7 @@ Our tools run on the **Stellar network**, using on-chain multisignature accounts
 
 ## What We're Building
 
-**TriSig** is a decentralized group finance app that lets trusted groups — roommates, travel squads, families, community savings circles — manage shared money on-chain.
+**TriSig** is a decentralized group finance app that lets trusted groups — roommates, travel squads, families, community savings circles  manage shared money on-chain.
 
 Every group treasury is a real Stellar multisig account. Funds only move when the group agrees. Rules are enforced by smart contracts, not a company backend.
 
