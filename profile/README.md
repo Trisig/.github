@@ -1,6 +1,6 @@
 # TriSig
 
-We build open-source financial infrastructure for the people who need it most — families, communities, and trusted groups managing money together.
+We build open-source financial infrastructure for the people who need it most families, communities, and trusted groups managing money together.
 
 Our tools run on the **Stellar network**, using on-chain multisignature accounts and **Soroban smart contracts** to make shared finance transparent, programmable, and trustless. No middlemen. No hidden balances. The blockchain enforces the rules.
 
@@ -12,7 +12,7 @@ Our tools run on the **Stellar network**, using on-chain multisignature accounts
 
 Every group treasury is a real Stellar multisig account. Funds only move when the group agrees. Rules are enforced by smart contracts, not a company backend.
 
-The standout feature is **Guardian Accounts** — programmable on-chain wallets designed for parents sending money to children studying away from home. Spending limits, destination whitelists, category budgets, and scheduled payments are all enforced automatically at the contract level. The guardian sees everything. The child spends freely within the rules.
+The standout feature is **Guardian Accounts**  programmable on-chain wallets designed for parents sending money to children studying away from home. Spending limits, destination whitelists, category budgets, and scheduled payments are all enforced automatically at the contract level. The guardian sees everything. The child spends freely within the rules.
 
 ---
 
